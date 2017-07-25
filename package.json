@@ -1,0 +1,28 @@
+{
+  "name": "hubot-ultimaker3-controller",
+  "version": "0.0.1",
+  "description": "Hubot plugin for remote control of the Ultimaker 3 and Ultimaker 3 Extended.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkeywithawrench/hubot-ultimaker3-controller.git"
+  },
+  "keywords": [
+    "Hubot",
+    "Ultimaker3",
+    "Controller",
+    "Status",
+    "Automation",
+    "Chat",
+    "Bot"
+  ],
+  "author": "Jeff Morton <monkeybuilderman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monkeywithawrench/hubot-ultimaker3-controller/issues"
+  },
+  "homepage": "https://github.com/monkeywithawrench/hubot-ultimaker3-controller#readme"
+}
