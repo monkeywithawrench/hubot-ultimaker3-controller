@@ -1,6 +1,6 @@
 {
   "name": "hubot-ultimaker3-controller",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hubot plugin for remote control of the Ultimaker 3 and Ultimaker 3 Extended.",
   "main": "index.js",
   "scripts": {
