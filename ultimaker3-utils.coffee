@@ -54,7 +54,7 @@ module.exports = (robot) ->
 	
 	#Promises using "request" and "request-promise"
 	###
-	# WORKING BITCHES!!!!!
+	# WORKING!
 	getStatus = (res) ->
 		options = 
 			uri: 'http: //10.100.1.173/api/v1/printer', #REMOVE SPACE!
@@ -77,7 +77,7 @@ module.exports = (robot) ->
 	
 	
 	
-	#MY WAY BITCHES (using NodeJS's own http library, rather than hubot's "scoped http client"
+	#My way (using NodeJS's own http library, rather than hubot's "scoped http client"
 	
 	
 	#MY HTTP GET UTILITY FUNCTIONS
